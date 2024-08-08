@@ -1,0 +1,16 @@
+(dev) 13:13:27 EnergyFlow (chore/no-six)$ git grep --name-only "six"
+
+energyflow/archs/archbase.py
+energyflow/base.py
+energyflow/datasets/mod.py
+energyflow/efp.py
+energyflow/measure.py
+energyflow/tests/test_utils.py
+energyflow/utils/data_utils.py
+energyflow/utils/generic_utils.py
+energyflow/utils/particle_utils.py
+examples/efn_example.ipynb
+mkdocs/sources/installation.md
+pyproject.toml
+
+Everything else has been reviewed.
